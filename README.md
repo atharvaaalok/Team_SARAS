@@ -2,7 +2,7 @@
 
 ## Team Members:
 * Atharva Aalok
-* Kartik Manoj
+* Karthik Manoj
 
 
 For obtaining the airplane parameters run Main.m
